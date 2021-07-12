@@ -25,8 +25,23 @@ This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlig
 5. `bash t-header.sh`
 6. after complete all processing just --open new session--
 #
-Video guide available on YouTube channel {  (https://youtube.com/TechnicalHeadquarter) }
+Video guide available on YouTube channel {  (https://www.youtube.com/watch?v=FKCZ1Nx0Zuo) }
 For modification of design.Here's details 
 <img src="https://user-images.githubusercontent.com/28594846/71559324-ade80300-2a82-11ea-8f05-71628bf8cb83.png" width="200" hight="220">
 
 	
+## Modded by:
+
+  Syed Shoaib Raza
+  http://www.github.com/TechnicalHeadquarter
+  Join me on youtube: https://www.youtube.com/watch?v=FKCZ1Nx0Zuo
+
+Gaming channel: https://www.youtube.com/channel/UCOZSrnb0cCFRTvSP_JO8nPA
+
+Whatsapp:https://chat.whatsapp.com/BTCaDFtHdHrFICwe1SYY8X (Before joining group yo must subscribe my channels)
+
+# support me
+
+<a href="https://www.youtube.com/watch?v=FKCZ1Nx0Zuo"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg"> 
+  
+  <a href="https://www.youtube.com/channel/UCOZSrnb0cCFRTvSP_JO8nPA"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg"> 	
